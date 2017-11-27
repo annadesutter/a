@@ -1,0 +1,638 @@
+{
+  "settings": {
+    "name": "AnnaAntoine",
+    "currentPage": "works.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {},
+      "additionalSetColors": [
+        "#f90de1",
+        "#f90d66"
+      ]
+    },
+    "versionFirst": "4.4.1",
+    "uniqCompNum": 48,
+    "versionPublish": "4.4.1",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-110245095-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-110245095-1');\r\n</script>\r\n",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
+  },
+  "pages": {
+    "works.html": {
+      "settings": {
+        "main": true,
+        "title": "works",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": false,
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#f90d66",
+            "hamburgerColor": "#fac51c"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#f90d66"
+            },
+            ".mbr-navbar__section": {
+              "background": "#f90d66"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#fac51c"
+            }
+          },
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home<br><br></a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"works.html\">Works</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">CONTACT</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-0"
+        },
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": false,
+            "bgColor": "#fac51c",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-11-20-om-17.05.46-1174x655.png",
+                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-11-20-om-17.05.46-1174x655-800x446.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-11-23-om-16.25.14-1176x648.png",
+                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-11-23-om-16.25.14-1176x648-800x440.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-11-23-om-16.23.30-851x473.png",
+                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-11-23-om-16.23.30-851x473-800x444.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-11-23-om-16.28.01-849x471.png",
+                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-11-23-om-16.28.01-849x471-800x443.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-2"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "<i>!!! ALL WORKS ARE WORK IN PROGRESS !!!<br></i><br><br><br>1. Simple Snack Song<br>2. Take me to Hell<br>3. The thing I can't have<br>4. Nothing<br><br><i>coming soon</i><i><br></i>5. Bonne Nuit Sweet Chilli<br>6. N.G.A.FUCK !!!<br>7. (After) Closing Time",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-f",
+          "_styles": {
+            "H3": {
+              "color": "#f90d66",
+              "text-align": "center"
+            },
+            "I": {
+              "color": "#fac51c"
+            }
+          }
+        },
+        {
+          "_styles": {
+            "SMALL": {
+              "color": "#fac51c"
+            }
+          },
+          "_params": {
+            "showText": false,
+            "bgColor": "#f90d66"
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=pPBl2jhV3uY",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "<b>Simple Snack Song</b>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-g"
+        },
+        {
+          "_styles": {
+            "SMALL": {
+              "color": "#fac51c"
+            }
+          },
+          "_params": {
+            "showText": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://youtu.be/FMIzUyLXxU4",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Take me to Hell",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-h"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://youtu.be/2RG1_sVml8c",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-i"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://youtu.be/FgbDFLEMXqE",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-j"
+        },
+        {
+          "_inherit": "features1",
+          "_params": {
+            "showHeader": false,
+            "showSubheader": false,
+            "showImages": false,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "images/bootstrap.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "Simple Snack Song",
+          "caption1": "Apparently I don’t care about you no more<br>otherwise I wouldn't make this simple song<br>Im only using this simple words<br>Oh baby, I've been crying for so long<br><br>Apparently I don’t care about you no more<br>and that is good because you are screwing <br>the girl you were screwing before me<br>before me<br><br>Apparently I was your little snack<br>the thing you have between two meals<br>I was just your little snack<br>I am the thing you have between two meals<br><br>of a snack you can’t live<br>of a snack you don't get energy<br>and that was me<br>your snack<br>for free<br><br>apparently I am so stupid<br>cause you never loved me and I always knew it<br>But I always thought that you would want me<br>Because I always like a snack more than a meal<br><br>Because a meal is full of nutrients and things you really need<br>like meat but I don't like meat<br>because meat is not good for the planet<br><br>So thought you liked your snack<br>I was your healthy snack<br>and everybody wants to be healthy<br><br>But that was wrong of merrrr<br>But what can I do about it<br>I’m just a snack<br><br>Apparently I don't care about you no more<br>otherwise I wouldn't make this simple song<br>And I’m only using, the words I know<br>Don’t tell me about words<br>because i don’t know nothing<br>I can listen very well<br>and I know everything<br><br>But I didn’t do nothing<br>just like a snack<br>I don’t do nothing<br>just like a snack<br>I don’t have any nutrients<br><br>Apparently I don't care about you no more<br>otherwise I wouldn't sing this simple song<br>last time I did was when we were together<br>you and me in bed forever<br>I was happy then, singing simple songs<br>so apparently this snack is happy again",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "images/responsive.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "Take me to Hell",
+          "caption2": "Every hangover I have<br>Is because I wanted<br>to get closer <br>to you<br>or him <br>or him <br>or just anyone<br>but I only push myself away <br>Deeper in my head<br>so it literally aches <br>instead of thinks<br><br>Lying nakedand trembling <br>on the bathroom floor<br>and everything I take in <br>comes out yellow and sour<br><br>Please take me to hell<br>I scream begging <br>in to the toilet<br>the devil can torture me<br>but it wont compare with what I do to myself<br><br>Why did I wake up today<br>this day is already lost <br>Im tired and cant function<br>my emotions don't exist<br>I hit everything that comes into my space<br>and I hurt my little toe to the bed<br>and I skipped <br>every appointment I had<br>Just let me lay in my bed <br>all day long<br>Till the next  night comes<br>just let me lay<br>in my bed<br>all day long<br>‘till the next night<br>comes<br><br><br>Every hangover I have<br>Is because I wanted <br>to get closer <br>to you<br>Or him <br>or him <br>just anyone<br>I just don't want to be alone<br>I just don’t want to be alone",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "images/google-fonts.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "The thing I can't have",
+          "caption3": "Intimacy are you scared of me ?<br>each time you come closer<br>you shut down<br><br>We talk and dance all night long<br>but the moment we touch tongs<br>you have nothing more to say<br>let the body speak<br>but your mind is far away<br><br>it’s dark and i’m standing in front of you nothing to hide in this moment <br>Intimacy, just touch me<br>for once i really want to be felt<br>body and mind in your hands<br><br>It's like we can talk very well and we talk all night and all day<br>I know what you do, I know what I do and I know who you are and I know who I am<br><br>Intimacy everytime it gets real you shut down<br>It’s like you are two different persons<br>I see it in your gaze, it goes to infinite, you stop looking at me<br>Maybe it its because I am also not looking at you<br><br>But I have very bad eyes and I only meet you without glasses<br>or sometimes with my lenses<br>but that is because we didn't take time to put them out <br>and my eyes get irritated when I sleep with lenses<br>So then it isn't it a very intimate moment or it was not like you and me were planning on going together<br>but it just happend<br><br>Intamacy I dont know what to do <br>I really like you but there is something about it I can’t wrap my head around<br>only my legs<br>and my head dissapaers<br>and my heart is only in fear<br><br>because intimacy you are the thing I want most<br>You’re the thing I cant have<br>or don't exist<br>I tend to long for things that don’t exist",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "Nothing",
+          "caption4": "Sometimes I wake up<br>and everything around me is dark<br>everything inside me is black<br>I'm floating<br>I’m floating in nothingness<br><br>Hello dark nothingness, my most loyal friend<br>you always take me in your arms when I can’t sleep<br><br>There is nothing<br>there is really nothing<br>nothing is always gone<br>nothing is always here<br>nothing is my lover<br>and my biggest fear<br><br>I know there is nothing<br>there is nothing in the dark<br>there is nothing in the light<br>Nothing is black nor white<br><br>so hello, dark nothingness, my most loyal friend<br>you always hold my hand, you're next to me, wherever I stand<br><br>There is nothing<br>there is really nothing<br>nothing is always gone<br>nothing is always here<br>nothing is my lover<br>and my biggest fear<br><br>The longer I wonder`the more I feel<br>nothing is real<br>there is no dark side<br>eventough all the longing for the light<br><br>There is nothing<br>there is really nothing<br>nothing is always gone<br>nothing is always here<br>nothing is my lover<br>and my biggest fear<br><br>There is comfort in knowing <br>I have no whole to fill<br>and my emptiness doesn’t exist<br>Because in the universe of nothingness<br>nothing really is<br>and nothing really isn’t<br><br>We’re just floating in to the big space<br>of al filled, unfulfilled and dismissed possibilities<br>a space where nothing is everything<br>and everything is nothing<br><br>So hello dark nothingness my only friend<br>you’re always here and I wouldn't want to have it any other way my dear<br><br>There is nothing<br>there is really nothing<br>nothing is always gone<br>nothing is always here<br>nothing is my lover<br>and my biggest fear<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_name": "content4",
+          "_anchor": "content4-11",
+          "_styles": {
+            ".mbr-section__col .mbr-header__text": {
+              "color": "#f90d66",
+              "text-align": "left"
+            }
+          }
+        }
+      ]
+    },
+    "contact.html": {
+      "settings": {
+        "meta_descr": "Site Generator Description",
+        "title": "contact",
+        "order": 2
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": false,
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#f90d66",
+            "hamburgerColor": "#fac51c"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#f90d66"
+            },
+            ".mbr-navbar__section": {
+              "background": "#f90d66"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#fac51c"
+            }
+          },
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home<br><br></a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"works.html\">Works</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">CONTACT</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-a"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Contact Form",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT ME</a>",
+          "form": {
+            "action": "annadesutter@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-d",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#f90d66"
+            }
+          }
+        }
+      ]
+    },
+    "index.html": {
+      "settings": {
+        "meta_descr": "Site Creator Description",
+        "title": "home",
+        "order": 3
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": false,
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#f90d66",
+            "hamburgerColor": "#fac51c"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#f90d66"
+            },
+            ".mbr-navbar__section": {
+              "background": "#f90d66"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#fac51c"
+            }
+          },
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home<br><br></a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"works.html\">Works</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">CONTACT</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-7"
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-11-20-om-15.06.04-432x655.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Anna De Sutter",
+          "text": "Mixed Media // Philosophy<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-9",
+          "_styles": {
+            "H1": {
+              "color": "#f90d66"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
