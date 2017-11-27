@@ -57,3 +57,15 @@
 #header4-9 H1 {
   color: #f90d66;
 }
+#ext_menu-1g .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-1g.mbr-navbar--stuck .mbr-navbar__section {
+  background: #f90d66;
+}
+#ext_menu-1g .mbr-navbar__section {
+  background: #f90d66;
+}
+#ext_menu-1g .mbr-navbar__hamburger {
+  color: #fac51c;
+}
