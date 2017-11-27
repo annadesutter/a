@@ -13,7 +13,7 @@
       ]
     },
     "versionFirst": "4.4.1",
-    "uniqCompNum": 65,
+    "uniqCompNum": 66,
     "versionPublish": "4.4.1",
     "favicon": "",
     "noImageResize": "",
@@ -294,6 +294,26 @@
           ],
           "_name": "video2",
           "_anchor": "video2-1q"
+        },
+        {
+          "_inherit": "soundcloud1",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "sound": "https://soundcloud.com/anna-de-sutter/sets/songs",
+            "autoplay": false,
+            "fullWidth": true,
+            "bgColor": "#ffffff"
+          },
+          "alias": "soundcloud",
+          "_tags": [
+            "Extension"
+          ],
+          "_afterNavbarItem": false,
+          "iframeSRC": "https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F384884120&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true",
+          "soundURL": "url=http%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F384884120",
+          "_name": "soundcloud2",
+          "_anchor": "soundcloud2-1t"
         },
         {
           "_inherit": "features1",
