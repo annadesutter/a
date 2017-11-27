@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "AnnaAntoine",
-    "currentPage": "page3.html",
+    "currentPage": "works.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -13,7 +13,7 @@
       ]
     },
     "versionFirst": "4.4.1",
-    "uniqCompNum": 56,
+    "uniqCompNum": 60,
     "versionPublish": "4.4.1",
     "favicon": "",
     "noImageResize": "",
@@ -61,7 +61,7 @@
               "color": "#fac51c"
             }
           },
-          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home<br><br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">Social Media<br><br></a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"works.html\">Works</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">CONTACT</a></li>",
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home<br><br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"works.html\">Works</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">Social Media<br><br></a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">Contact</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -129,10 +129,52 @@
           "_anchor": "gallery1-2"
         },
         {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fac51c"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f90d66",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "!!! ALL WORKS ARE A WORK PROGRESS !!!<div><br></div>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-1n"
+        },
+        {
           "_params": {
             "showMeta": true
           },
-          "title": "<i>!!! ALL WORKS ARE WORK IN PROGRESS !!!<br></i><br><br><br>1. Simple Snack Song<br>2. Take me to Hell<br>3. The thing I can't have<br>4. Nothing<br><br><i>coming soon</i><i><br></i>5. Bonne Nuit Sweet Chilli<br>6. N.G.A.FUCK !!!<br>7. (After) Closing Time",
+          "title": "1. Simple Snack Song<br>2. Take me to Hell<br>3. The thing I can't have<br>4. Nothing<br><br><i>coming soon</i><i><br></i>5. Bonne Nuit Sweet Chilli<br>6. N.G.A.FUCK !!!<br>7. (After) Closing Time",
           "meta": "",
           "_tags": [
             "Theme"
@@ -314,7 +356,7 @@
             }
           },
           "title1": "Simple Snack Song",
-          "caption1": "Apparently I don’t care about you no more<br>otherwise I wouldn't make this simple song<br>Im only using this simple words<br>Oh baby, I've been crying for so long<br><br>Apparently I don’t care about you no more<br>and that is good because you are screwing <br>the girl you were screwing before me<br>before me<br><br>Apparently I was your little snack<br>the thing you have between two meals<br>I was just your little snack<br>I am the thing you have between two meals<br><br>of a snack you can’t live<br>of a snack you don't get energy<br>and that was me<br>your snack<br>for free<br><br>apparently I am so stupid<br>cause you never loved me and I always knew it<br>But I always thought that you would want me<br>Because I always like a snack more than a meal<br><br>Because a meal is full of nutrients and things you really need<br>like meat but I don't like meat<br>because meat is not good for the planet<br><br>So thought you liked your snack<br>I was your healthy snack<br>and everybody wants to be healthy<br><br>But that was wrong of merrrr<br>But what can I do about it<br>I’m just a snack<br><br>Apparently I don't care about you no more<br>otherwise I wouldn't make this simple song<br>And I’m only using, the words I know<br>Don’t tell me about words<br>because i don’t know nothing<br>I can listen very well<br>and I know everything<br><br>But I didn’t do nothing<br>just like a snack<br>I don’t do nothing<br>just like a snack<br>I don’t have any nutrients<br><br>Apparently I don't care about you no more<br>otherwise I wouldn't sing this simple song<br>last time I did was when we were together<br>you and me in bed forever<br>I was happy then, singing simple songs<br>so apparently this snack is happy again",
+          "caption1": "Apparently I don’t care about you no more<br>otherwise I wouldn't make this simple song<br>I'm only using this simple words<br>Oh baby, I've been crying for so long<br><br>Apparently I don’t care about you no more,<br>and that is good because you are screwing <br>the girl you were screwing before me,<br>before me<br><br>Apparently, I was your little snack<br>the thing you have between two meals<br>I was just your little snack<br>I am the thing you have between two meals<br><br>Of a snack you can’t live<br>of a snack you don't get energy<br>and that was me,<br>your snack for free<br><br>Apparently I am so stupid,<br>'cause you never loved me and I always knew it,<br>but I always thought that you would want me,<br>because I always like a snack more than a meal<br><br>Because a meal is full of nutrients and things you really need<br>like meat, but I don't like meat,<br>because meat, is not good for the planet<br><br>So thought you liked your snack,<br>I was your healthy snack<br>and everybody wants to be healthy,<br>but that was wrong of me,<br>but what can I do about it,<br>I’m just a snack<br><br>Apparently I don't care about you no more<br>otherwise I wouldn't make this simple song<br>And I’m only using the words I know<br>don’t tell me about words,<br>because I don’t know nothing,<br>I can listen very well<br>and I know everything<br><br>But I didn’t do nothing<br>just like a snack<br>I don’t do nothing<br>just like a snack<br>I don’t have any nutrients<br><br>Apparently I don't care about you no more<br>otherwise I wouldn't sing this simple song<br>last time I did was when we were together<br>you and me in bed forever<br>I was happy then, singing simple songs<br>so apparently this snack is happy again",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -334,7 +376,7 @@
             }
           },
           "title2": "Take me to Hell",
-          "caption2": "Every hangover I have<br>Is because I wanted<br>to get closer <br>to you<br>or him <br>or him <br>or just anyone<br>but I only push myself away <br>Deeper in my head<br>so it literally aches <br>instead of thinks<br><br>Lying nakedand trembling <br>on the bathroom floor<br>and everything I take in <br>comes out yellow and sour<br><br>Please take me to hell<br>I scream begging <br>in to the toilet<br>the devil can torture me<br>but it wont compare with what I do to myself<br><br>Why did I wake up today<br>this day is already lost <br>Im tired and cant function<br>my emotions don't exist<br>I hit everything that comes into my space<br>and I hurt my little toe to the bed<br>and I skipped <br>every appointment I had<br>Just let me lay in my bed <br>all day long<br>Till the next  night comes<br>just let me lay<br>in my bed<br>all day long<br>‘till the next night<br>comes<br><br><br>Every hangover I have<br>Is because I wanted <br>to get closer <br>to you<br>Or him <br>or him <br>just anyone<br>I just don't want to be alone<br>I just don’t want to be alone",
+          "caption2": "Every hangover I have<br>is because I wanted<br>to get closer <br>to you<br>or him <br>or him <br>or just anyone,<br>but I only push myself away <br>deeper in my head<br>so it literally aches <br>instead of thinks<br><br>Lying naked and trembling <br>on the bathroom floor<br>and everything I take in <br>comes out yellow and sour<br><br>Please take me to hell<br>I scream begging <br>in to the toilet<br>the devil can torture me<br>but it wont compare with what I do to myself,<br>no the devil can't do,<br> what I do to myself<br><br>Why did I wake up today<br>this day is already lost <br>I'm tired and can't function<br>my emotions don't exist<br>I hit everything that comes into my space<br>and I hurt my little toe to the bed<br>and I skipped <br>every appointment I had<br><br>Just let me lay in my bed <br>all day long<br>'till the next  night comes<br>just let me lay<br>in my bed<br>all day long<br>‘till the next night comes<br><br>Every hangover I have<br>is because I wanted <br>to get closer <br>to you<br>or him <br>or him <br>just anyone<br>I just don't want to be alone<br>I just don’t want to be alone",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -354,7 +396,7 @@
             }
           },
           "title3": "The thing I can't have",
-          "caption3": "Intimacy are you scared of me ?<br>each time you come closer<br>you shut down<br><br>We talk and dance all night long<br>but the moment we touch tongs<br>you have nothing more to say<br>let the body speak<br>but your mind is far away<br><br>it’s dark and i’m standing in front of you nothing to hide in this moment <br>Intimacy, just touch me<br>for once i really want to be felt<br>body and mind in your hands<br><br>It's like we can talk very well and we talk all night and all day<br>I know what you do, I know what I do and I know who you are and I know who I am<br><br>Intimacy everytime it gets real you shut down<br>It’s like you are two different persons<br>I see it in your gaze, it goes to infinite, you stop looking at me<br>Maybe it its because I am also not looking at you<br><br>But I have very bad eyes and I only meet you without glasses<br>or sometimes with my lenses<br>but that is because we didn't take time to put them out <br>and my eyes get irritated when I sleep with lenses<br>So then it isn't it a very intimate moment or it was not like you and me were planning on going together<br>but it just happend<br><br>Intamacy I dont know what to do <br>I really like you but there is something about it I can’t wrap my head around<br>only my legs<br>and my head dissapaers<br>and my heart is only in fear<br><br>because intimacy you are the thing I want most<br>You’re the thing I cant have<br>or don't exist<br>I tend to long for things that don’t exist",
+          "caption3": "Intimacy, are you scared of me ?<br>each time you come closer<br>you shut down<br><br>We talk and dance all night long<br>but the moment we touch tongues,<br>you have nothing more to say<br>let the body speak<br>but your mind is far away<br><br>It’s dark and i’m standing in front of you,<br> nothing to hide in this moment <br>Intimacy, just touch me<br>for once i really want to be felt<br>body and mind in your hands<br><br>It's like we can talk very well and we talk all night and all day<br>I know what you do, I know what I do and I know who you are and I know who I am<br><br>Intimacy, everytime it gets real you shut down<br>It’s like you are two different persons<br>I see it in your gaze, it goes to infinite, you stop looking at me<br>Maybe it its because I am also not looking at you<br><br>But I have very bad eyes and I only meet you without glasses<br>or sometimes with my lenses<br>but that is because we didn't take time to put them out <br>and my eyes get irritated when I sleep with lenses, so then it isn't it a very intimate moment, or, it was not like you and me were planning on going together,<br>but it just happened<br><br>Intimacy, I dont know what to do <br>I really like you but there is something about it I can’t wrap my head around, only my legs<br>and my head dissapaers<br>and my heart is only in fear<br><br>Because intimacy you are the thing that I want most,<br>you’re the thing I cant have,<br>or don't exist<br>I tend to long for things that don’t exist",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -374,7 +416,7 @@
             }
           },
           "title4": "Nothing",
-          "caption4": "Sometimes I wake up<br>and everything around me is dark<br>everything inside me is black<br>I'm floating<br>I’m floating in nothingness<br><br>Hello dark nothingness, my most loyal friend<br>you always take me in your arms when I can’t sleep<br><br>There is nothing<br>there is really nothing<br>nothing is always gone<br>nothing is always here<br>nothing is my lover<br>and my biggest fear<br><br>I know there is nothing<br>there is nothing in the dark<br>there is nothing in the light<br>Nothing is black nor white<br><br>so hello, dark nothingness, my most loyal friend<br>you always hold my hand, you're next to me, wherever I stand<br><br>There is nothing<br>there is really nothing<br>nothing is always gone<br>nothing is always here<br>nothing is my lover<br>and my biggest fear<br><br>The longer I wonder`the more I feel<br>nothing is real<br>there is no dark side<br>eventough all the longing for the light<br><br>There is nothing<br>there is really nothing<br>nothing is always gone<br>nothing is always here<br>nothing is my lover<br>and my biggest fear<br><br>There is comfort in knowing <br>I have no whole to fill<br>and my emptiness doesn’t exist<br>Because in the universe of nothingness<br>nothing really is<br>and nothing really isn’t<br><br>We’re just floating in to the big space<br>of al filled, unfulfilled and dismissed possibilities<br>a space where nothing is everything<br>and everything is nothing<br><br>So hello dark nothingness my only friend<br>you’re always here and I wouldn't want to have it any other way my dear<br><br>There is nothing<br>there is really nothing<br>nothing is always gone<br>nothing is always here<br>nothing is my lover<br>and my biggest fear<br>",
+          "caption4": "Sometimes I wake up,<br>and everything around me is dark<br>everything inside me is black<br>I'm floating<br>I’m floating in nothingness<br><br>Hello, dark nothingness, my most loyal friend<br>you always take me in your arms when I can’t sleep<br><br>There is nothing<br>there is really nothing<br>nothing is always gone<br>nothing is always here<br>nothing is my lover<br>and my biggest fear<br><br>I know there is nothing,<br>there is nothing in the dark,<br>there is nothing in the light,<br>nothing is black nor white<br><br>So, hello dark nothingness, my most loyal friend<br>you always hold my hand, you're next to me, wherever I stand<br><br>There is nothing<br>there is really nothing<br>nothing is always gone<br>nothing is always here<br>nothing is my lover<br>and my biggest fear<br><br>The longer I wonder`the more I feel, nothing is real<br>there is no dark side<br>eventough all the longing for the light<br><br>There is nothing<br>there is really nothing<br>nothing is always gone<br>nothing is always here<br>nothing is my lover<br>and my biggest fear<br><br>There is comfort in knowing <br>I have no whole to fill<br>and my emptiness doesn’t exist<br>because in the universe of nothingness,<br>nothing really is<br>and nothing really isn’t<br><br>We’re just floating in to the big space of al filled, unfulfilled and dismissed possibilities,<br>a space where nothing is everything<br>and everything is nothing<br><br>So, hello dark nothingness, my only friend<br>you’re always here and I wouldn't want to have it any other way my dear<br><br>There is nothing<br>there is really nothing<br>nothing is always gone<br>nothing is always here<br>nothing is my lover<br>and my biggest fear<br>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
             "image": {
@@ -464,7 +506,7 @@
               "color": "#fac51c"
             }
           },
-          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home<br><br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">Social Media<br><br></a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"works.html\">Works</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">CONTACT</a></li>",
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home<br><br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"works.html\">Works</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">Social Media<br><br></a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">Contact</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -577,7 +619,7 @@
               "color": "#fac51c"
             }
           },
-          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home<br><br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">Social Media<br><br></a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"works.html\">Works</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">CONTACT</a></li>",
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home<br><br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"works.html\">Works</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">Social Media<br><br></a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">Contact</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -646,7 +688,7 @@
           "_params": {
             "showMeta": true
           },
-          "title": "Instagram",
+          "title": "Instagram<br>",
           "meta": "",
           "_tags": [
             "Theme"
@@ -684,7 +726,7 @@
               "color": "#fac51c"
             }
           },
-          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home<br><br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">Social Media<br><br></a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"works.html\">Works</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">CONTACT</a></li>",
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home<br><br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"works.html\">Works</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">Social Media<br><br></a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">Contact</a></li>",
           "logo": {
             "image": {
               "active": true,
