@@ -13,7 +13,7 @@
       ]
     },
     "versionFirst": "4.4.1",
-    "uniqCompNum": 66,
+    "uniqCompNum": 67,
     "versionPublish": "4.4.1",
     "favicon": "",
     "noImageResize": "",
@@ -174,7 +174,7 @@
           "_params": {
             "showMeta": true
           },
-          "title": "1. Simple Snack Song<br>2. Take me to Hell<br>3. The thing I can't have<br>4. Nothing<br><br><i>coming soon</i><i><br></i>5. Bonne Nuit Sweet Chilli<br>6. N.G.A.FUCK !!!<br>7. (After) Closing Time",
+          "title": "1. Simple Snack Song<br>2. Take me to Hell<br>3. The thing I can't have<br>4. Nothing<br>5. N.G.A.FUCK !!!<div><br><br><i>coming soon</i><i><br></i>6. Bonne Nuit Sweet Chilli<br>7. (After) Closing Time</div>",
           "meta": "",
           "_tags": [
             "Theme"
@@ -283,7 +283,7 @@
             "video": {
               "active": true,
               "class": "mbr-figure__img",
-              "src": "https://youtu.be/FgbDFLEMXqE",
+              "src": "https://youtu.be/ebmhVIY6xUU",
               "autoplay": false,
               "loop": false
             }
@@ -296,11 +296,37 @@
           "_anchor": "video2-1q"
         },
         {
+          "_styles": {},
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://youtu.be/RyBtoNUm75o",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-1u"
+        },
+        {
           "_inherit": "soundcloud1",
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
-            "sound": "https://soundcloud.com/anna-de-sutter/sets/songs",
+            "sound": "https://soundcloud.com/anna-de-sutter/sets/songs-1",
             "autoplay": false,
             "fullWidth": true,
             "bgColor": "#ffffff"
@@ -310,8 +336,8 @@
             "Extension"
           ],
           "_afterNavbarItem": false,
-          "iframeSRC": "https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F384884120&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true",
-          "soundURL": "url=http%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F384884120",
+          "iframeSRC": "https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F390124367&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true",
+          "soundURL": "url=http%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F390124367",
           "_name": "soundcloud2",
           "_anchor": "soundcloud2-1t"
         },
@@ -544,7 +570,7 @@
             }
           },
           "title2": "N.G.A.FUCK !!!",
-          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "caption2": "Nobody gives a fuck x3<br><br>I’m a painter with no paintings<br>a writer with no books<br>a drawer with no sketches<br>a sculpture without statues<br>a singer without songs<br><br>I can tell a story<br>I can make every story mine<br>you’ll believe everything I tell you<br>you’ll believe whatever you want to believe<br><br>Eyes with no gaze<br>a voice with no noise<br>a mouth who can’t taste<br>fingers with no sense<br>feet with no ground<br><br>Nobody gives a fuck x6<br><br>I can tell you a story<br>I’ll tell you whatever you want to hear<br>You’ll hear whatever you want to hear<br><br>Noboby listens<br>Nobody hears<br>Nobody sees<br>Noboby gives a fuck<br><br>I am whatever you want me to be<br>a million different shapes <br>a million different stories<br><br>You are whatever you want to be<br>a million different shapes<br>a million different stories<br><br>Noboby hears<br>Nobody listens<br>Nobody sees<br>Noboby gives a fuck<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -564,7 +590,7 @@
             }
           },
           "title3": "(After) Closing Time",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "caption3": "Closed the bar<br>sitting here with a cigarette<br>and a night cap<br>I had a beautiful day<br>had coffee with some friends<br>bought myself a some lingerie<br><br>Sitting at the bar, after closing time<br>thinking about you, I miss you<br>there are some things I want to share<br>and I also think I forgive you<br>and that I grew a little bit<br>I hope we can be friends<br><br>Yes, I, burned some bridges<br>but the intentions are still intact<br>mine are good<br>but isn’t that what the road to hell is paved with ?<br><br>Riding my bike<br>towards home, it’s the same road I took to you<br>life is still the same, but I miss you<br>I want to be older, I want to be wiser<br><br>Sitting at the bar, after closing time<br>thinking about you, I miss you<br>there are some things I want to share<br>and I also think I forgive you<br>and that I grew a little bit<br>I hope we can be friends<br><br>I still have a desire<br>but you are no longer<br>the object of it<br><br>Life is still the same<br>but I miss you<br>I want to be older, I want to be wiser<br>so you and me can become friends<br><br><br>Sitting at the bar, after closing time<br>thinking about you, I miss you<br>there are some things I want to share<br>and I also think I forgive you<br>and that I grew a little bit<br>I hope we can become friends",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
