@@ -13,7 +13,7 @@
       ]
     },
     "versionFirst": "4.4.1",
-    "uniqCompNum": 67,
+    "uniqCompNum": 80,
     "versionPublish": "4.4.1",
     "favicon": "",
     "noImageResize": "",
@@ -92,32 +92,25 @@
             "bgColor": "#f90d66",
             "images": [
               {
-                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-11-20-om-17.05.46-1174x655.png",
-                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-11-20-om-17.05.46-1174x655-800x446.png",
+                "image": "@PROJECT_PATH@/assets/images/nothing-still-1920x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/nothing-still-1920x1080-800x450.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-11-23-om-16.25.14-1176x648.png",
-                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-11-23-om-16.25.14-1176x648-800x440.png",
+                "image": "@PROJECT_PATH@/assets/images/29-11-ngafuck-.00-00-54-20.still001-1920x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/29-11-ngafuck-.00-00-54-20.still001-1920x1080-800x450.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-11-23-om-16.23.30-851x473.png",
-                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-11-23-om-16.23.30-851x473-800x444.png",
+                "image": "@PROJECT_PATH@/assets/images/simple-snack-song.00-03-08-02.still004-1920x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/simple-snack-song.00-03-08-02.still004-1920x1080-800x450.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-11-23-om-16.28.01-849x471.png",
-                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-11-23-om-16.28.01-849x471-800x443.png",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
               }
             ]
           },
@@ -174,7 +167,7 @@
           "_params": {
             "showMeta": true
           },
-          "title": "1. Simple Snack Song<br>2. Take me to Hell<br>3. The thing I can't have<br>4. Nothing<br>5. N.G.A.FUCK !!!<div><br><br><i>coming soon</i><i><br></i>6. Bonne Nuit Sweet Chilli<br>7. (After) Closing Time</div>",
+          "title": "1. <a href=\"page4.html\" class=\"text-danger\">Simple Snack Song</a><br>2. Take me to Hell<br>3. The thing I can't have<br>4. Nothing<br>5. <a href=\"page5.html\" class=\"text-danger\">N.G.A.FUCK !!!</a><div><br><br><i>coming soon</i><i><br></i>6. Bonne Nuit Sweet Chilli<br>7. (After) Closing Time</div>",
           "meta": "",
           "_tags": [
             "Theme"
@@ -215,7 +208,7 @@
             "Theme"
           ],
           "_name": "video2",
-          "_anchor": "video2-1s"
+          "_anchor": "video2-27"
         },
         {
           "_styles": {},
@@ -242,32 +235,6 @@
           ],
           "_name": "video2",
           "_anchor": "video2-1p"
-        },
-        {
-          "_styles": {},
-          "_params": {
-            "showText": false
-          },
-          "media": {
-            "image": {
-              "src": "images/slide3.jpg",
-              "class": "mbr-figure__img",
-              "width": 1400
-            },
-            "video": {
-              "active": true,
-              "class": "mbr-figure__img",
-              "src": "https://youtu.be/2RG1_sVml8c",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "video2",
-          "_anchor": "video2-1r"
         },
         {
           "_styles": {},
@@ -666,7 +633,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "contact",
-        "order": 2
+        "order": 4
       },
       "components": [
         {
@@ -779,7 +746,7 @@
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "home",
-        "order": 3
+        "order": 5
       },
       "components": [
         {
@@ -874,7 +841,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "socialmedia",
-        "order": 1
+        "order": 3
       },
       "components": [
         {
@@ -971,6 +938,312 @@
           ],
           "_name": "instagram-feed-block",
           "_anchor": "instagram-feed-block-1h"
+        }
+      ]
+    },
+    "page4.html": {
+      "settings": {
+        "meta_descr": "Site Maker Description",
+        "title": "snack",
+        "order": 2
+      },
+      "components": [
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "Simple Snack Song",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1z",
+          "_styles": {
+            "H3": {
+              "text-align": "center",
+              "color": "#f90d66"
+            }
+          }
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://youtu.be/VakjKI29L3Y",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-20"
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": false,
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#f90d66",
+            "hamburgerColor": "#fac51c"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#f90d66"
+            },
+            ".mbr-navbar__section": {
+              "background": "#f90d66"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#fac51c"
+            }
+          },
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home<br><br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"works.html\">Works</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">Social Media<br><br></a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">Contact</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1v"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__text DIV": {
+              "text-align": "left",
+              "color": "#f90d66"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "0",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": 0.2
+          },
+          "title": "Apparently I don’t care about you no more<div>Apparently I don't care about you no more</div><div>otherwise I wouldn't make this simple song</div><div>I'm only using this simple words</div><div>Oh baby, I've been crying for so long</div><div><br></div><div>Apparently I don’t care about you no more,</div><div>and that is good because you are screwing&nbsp;</div><div>the girl you were screwing before me,</div><div>before me</div><div><br></div><div>Apparently, I was your little snack</div><div>the thing you have between two meals</div><div>I was just your little snack</div><div>I am the thing you have between two meals</div><div><br></div><div>Of a snack you can’t live</div><div>of a snack you don't get energy</div><div>and that was me,</div><div>your snack for free</div><div><br></div><div>Apparently I am so stupid,</div><div>'cause you never loved me and I always knew it,</div><div>but I always thought that you would want me,</div><div>because I always like a snack more than a meal</div><div><br></div><div>Because a meal is full of nutrients and things you really need</div><div>like meat, but I don't like meat,</div><div>because meat, is not good for the planet</div><div><br></div><div>So thought you liked your snack,</div><div>I was your healthy snack</div><div>and everybody wants to be healthy,</div><div>but that was wrong of me,</div><div>but what can I do about it,</div><div>I’m just a snack</div><div><br></div><div>Apparently I don't care about you no more</div><div>otherwise I wouldn't make this simple song</div><div>And I’m only using the words I know</div><div>don’t tell me about words,</div><div>because I don’t know nothing,</div><div>I can listen very well</div><div>and I know everything</div><div><br></div><div>But I didn’t do nothing</div><div>just like a snack</div><div>I don’t do nothing</div><div>just like a snack</div><div>I don’t have any nutrients</div><div><br></div><div>Apparently I don't care about you no more</div><div>otherwise I wouldn't sing this simple song</div><div>last time I did was when we were together</div><div>you and me in bed forever</div><div>I was happy then, singing simple songs</div><div>so apparently this snack is happy again</div>",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-1x"
+        }
+      ]
+    },
+    "page5.html": {
+      "settings": {
+        "meta_descr": "Website Generator Description",
+        "title": "NGAF",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": false,
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#f90d66",
+            "hamburgerColor": "#fac51c"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#f90d66"
+            },
+            ".mbr-navbar__section": {
+              "background": "#f90d66"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#fac51c"
+            }
+          },
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Home<br><br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"works.html\">Works</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">Social Media<br><br></a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">Contact</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-21"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "N.G.A.FUCK !!!",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "text-align": "center",
+              "color": "#f90d66"
+            }
+          },
+          "_anchor": "header3-22"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-23"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__text DIV": {
+              "text-align": "left",
+              "color": "#f90d66"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "0",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": 0.2
+          },
+          "title": "’m a painter with no paintings<div>I'm a painter with no paintings</div><div>a writer with no books</div><div>a drawer with no sketches</div><div>a sculpture without statues</div><div>a singer without songs</div><div><br></div><div>I can tell a story</div><div>I can make every story mine</div><div>you’ll believe everything I tell you</div><div>you’ll believe whatever you want to believe</div><div><br></div><div>Eyes with no gaze</div><div>a voice with no noise</div><div>a mouth who can’t taste</div><div>fingers with no sense</div><div>feet with no ground</div><div><br></div><div>Nobody gives a fuck x6</div><div><br></div><div>I can tell you a story</div><div>I’ll tell you whatever you want to hear</div><div>You’ll hear whatever you want to hear</div><div><br></div><div>Noboby listens</div><div>Nobody hears</div><div>Nobody sees</div><div>Noboby gives a fuck</div><div><br></div><div>I am whatever you want me to be</div><div>a million different shapes&nbsp;</div><div>a million different stories</div><div><br></div><div>You are whatever you want to be</div><div>a million different shapes</div><div>a million different stories</div><div><br></div><div>Noboby hears</div><div>Nobody listens</div><div>Nobody sees</div><div>Noboby gives a fuck</div>",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-26"
         }
       ]
     }
