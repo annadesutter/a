@@ -3,7 +3,7 @@
     "name": "AnnaAntoine",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "versionFirst": "4.4.1",
     "versionPublish": "4.6.7",
     "theme": {
@@ -34,7 +34,7 @@
             "showButtons": false,
             "sticky": true,
             "collapsed": false,
-            "transparent": false,
+            "transparent": true,
             "color": "#000000",
             "hamburgerColor": "#ffffff"
           },
@@ -49,9 +49,7 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#000000"
             },
-            ".mbr-navbar__section": {
-              "background": "#000000"
-            },
+            ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
             },
@@ -62,7 +60,7 @@
               "font-size": "36px"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">INSTAGRAM<br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\"><br>MUSIC AND VIDEOS<br></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">CONTACT ME !!!</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">INSTAGRAM<br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\"><br>MUSIC AND VIDEOS<br></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">CONTACT ME !!!</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -129,11 +127,14 @@
             "bgImageRadio": false,
             "bgImage": "images/bg2.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#000000",
-            "bgVideoRadio": false,
+            "bgVideoRadio": true,
             "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "url": "https://www.youtube.com/embed/ZNFrroR6bsQ?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/ZNFrroR6bsQ",
+              "width": 1280,
+              "height": 720
             },
             "overlay": false,
             "overlayColor": "#222",
@@ -186,19 +187,22 @@
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#000000",
-            "bgVideoRadio": false,
+            "bgVideoRadio": true,
             "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "url": "https://www.youtube.com/embed/0qmt6pjOUSY?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/0qmt6pjOUSY",
+              "width": 1280,
+              "height": 720
             },
             "darkBackground": true,
             "overlay": true,
             "overlayColor": "#28324e",
-            "overlayOpacity": 0.2
+            "overlayOpacity": "0"
           },
           "title": "EASY TO USE!",
-          "text": "ANNA DE SUTTER WAS BORN ON THE FIRST OF FEBRUARY IN NINETEENNINETYFIVE. SHE STUDIES MIXED MEDIA AT SINT LUCAS GHENT AND SHE (ALMOST) HAS A BACHELORS DEGREE IN PHILOSOPHY. ANNA WANTS TO PLAY. SHE WANTS TO PLAY ALL HER LIFE AND SHE DOESN'T GET IT WHEN PEOPLE DON'T WANT THE SAME.",
+          "text": "ANNA DE SUTTER WAS BORN ON THE FIRST OF FEBRUARY IN NINETEENNINETYFIVE. SHE STUDIES MIXED MEDIA AT SINT LUCAS GHENT AND SHE (ALMOST) HAS A BACHELORS DEGREE IN PHILOSOPHY. ANNA WANTS TO PLAY. SHE WANTS TO PLAY ALL HER LIFE LONG AND SHE DOESN'T GET IT WHEN PEOPLE DON'T WANT THE SAME.",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Thema"
@@ -224,7 +228,7 @@
             "showButtons": false,
             "sticky": true,
             "collapsed": false,
-            "transparent": false,
+            "transparent": true,
             "color": "#000000",
             "hamburgerColor": "#ffffff"
           },
@@ -239,9 +243,7 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#000000"
             },
-            ".mbr-navbar__section": {
-              "background": "#000000"
-            },
+            ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
             },
@@ -252,7 +254,7 @@
               "font-size": "36px"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">INSTAGRAM<br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\"><br>MUSIC AND VIDEOS<br></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">CONTACT ME !!!</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">INSTAGRAM<br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\"><br>MUSIC AND VIDEOS<br></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">CONTACT ME !!!</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -314,7 +316,7 @@
             "overlayOpacity": 0.2
           },
           "title": "EASY TO USE!",
-          "text": "<p>II<br></p><p><br></p><p><br></p><p><br></p><p><br></p><p>INSTAGRAM</p>",
+          "text": "<p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p>INSTAGRAM</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Thema"
@@ -365,7 +367,7 @@
             "overlayOpacity": 0.2
           },
           "title": "EASY TO USE!",
-          "text": "I LIKE THIS THING. I USE IT LIKE MY EVERYDAY // ARTISTIC MOODBOARD. IMAGES OF THINGS AND STUFF I SEE, I LIKE AND I CREATE.",
+          "text": "I LIKE THIS THING. I USE IT LIKE MY EVERYDAY // ARTISTIC MOODBOARD. IMAGES OF THINGS AND STUFF I SEE, I LIKE AND I CREATE. YOU KNOW, THE USUSAL.",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Thema"
@@ -458,7 +460,7 @@
             "overlayOpacity": 0.2
           },
           "title": "EASY TO USE!",
-          "text": "<p>M</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p>MUSIC AND </p><p><br></p><p><br></p><p>VIDEOS</p>",
+          "text": "<p><br></p><p><br></p><p><br></p><p>MUSIC</p><p>&nbsp;</p><p>AND</p><p><br></p><p>VIDEOS</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Thema"
@@ -475,7 +477,7 @@
             "showButtons": false,
             "sticky": true,
             "collapsed": false,
-            "transparent": false,
+            "transparent": true,
             "color": "#000000",
             "hamburgerColor": "#ffffff"
           },
@@ -490,9 +492,7 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#000000"
             },
-            ".mbr-navbar__section": {
-              "background": "#000000"
-            },
+            ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
             },
@@ -503,7 +503,7 @@
               "font-size": "36px"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">INSTAGRAM<br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\"><br>MUSIC AND VIDEOS<br></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">CONTACT ME !!!</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">INSTAGRAM<br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\"><br>MUSIC AND VIDEOS<br></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">CONTACT ME !!!</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -590,7 +590,9 @@
             "video": {
               "active": true,
               "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+              "src": "https://youtu.be/V9Sumgw7ofY",
+              "autoplay": false,
+              "loop": false
             }
           },
           "text": "Cut down the development time with drag-and-drop website builder.",
@@ -667,7 +669,9 @@
             "video": {
               "active": true,
               "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+              "src": "https://youtu.be/OBKiB35HcS8",
+              "autoplay": false,
+              "loop": false
             }
           },
           "text": "Cut down the development time with drag-and-drop website builder.",
@@ -694,7 +698,7 @@
             "showButtons": false,
             "sticky": true,
             "collapsed": false,
-            "transparent": false,
+            "transparent": true,
             "color": "#000000",
             "hamburgerColor": "#ffffff"
           },
@@ -709,9 +713,7 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#000000"
             },
-            ".mbr-navbar__section": {
-              "background": "#000000"
-            },
+            ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
             },
@@ -722,7 +724,7 @@
               "font-size": "36px"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">INSTAGRAM<br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\"><br>MUSIC AND VIDEOS<br></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">CONTACT ME !!!</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">INSTAGRAM<br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\"><br>MUSIC AND VIDEOS<br></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">CONTACT ME !!!</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -784,7 +786,7 @@
             "overlayOpacity": 0.2
           },
           "title": "EASY TO USE!",
-          "text": "<p><br></p><p><br></p><p><br></p><p><br></p><p>CONTACT ME !!!</p>",
+          "text": "<p><br></p><p><br></p><p><br></p><p><br></p><p>CONTACTME !!!</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Thema"
