@@ -5,7 +5,7 @@
     "screenshot": "screenshot.png",
     "currentPage": "index.html",
     "versionFirst": "4.4.1",
-    "versionPublish": "4.6.7",
+    "versionPublish": "4.7.1",
     "theme": {
       "additionalSetColors": [
         "#2c2c2c",
@@ -140,7 +140,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "I MAKE SONGS,<br>THEN I MAKE VIDEOS FOR THEM<br>AND I ALSO PERFORM // GIVE SHOWS.<br><br>IN MY SONGS I TRY TO TALK // SING ABOUT THE BIG THEMES IN (MY) LIFE AND ABOUT WHAT HAPPENS IN THE UNIVERSE.",
+          "title": "I MAKE SONGS,<br>&nbsp;I MAKE VIDEOS FOR THEM<br>AND I ALSO PERFORM THEM // GIVE SHOWS.<br><br>IN MY SONGS I TRY TO TALK // SING ABOUT THE BIG THEMES IN (MY) LIFE AND ABOUT WHAT HAPPENS IN THE UNIVERSE.",
           "text": "I MAKE SONGS&nbsp;<br><br><br><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
@@ -367,7 +367,7 @@
             "overlayOpacity": 0.2
           },
           "title": "EASY TO USE!",
-          "text": "I LIKE THIS THING. I USE IT LIKE MY EVERYDAY // ARTISTIC MOODBOARD. IMAGES OF THINGS AND STUFF I SEE, I LIKE AND I CREATE. YOU KNOW, THE USUSAL.",
+          "text": "I LIKE THIS THING. I USE IT LIKE AN EVERYDAY // ARTISTIC MOODBOARD. IMAGES OF THINGS AND STUFF I SEE, I LIKE AND I CREATE.&nbsp;",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Thema"
@@ -809,7 +809,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "I LIKE (LONG) E-MAILS AND LOVE LETTERS. I ALSO LIKE ANSWERING QUESTIONS AND GETTING SUGGESTIONS. I ALSO LIKE TO SING AND PERFORM, SO IF YOU WANT ME TO DO THAT, CONTACT ME !!!<br>",
+          "title": "I LIKE LONG E-MAILS AND LOVE LETTERS. I ALSO LIKE ANSWERING QUESTIONS AND GETTING SUGGESTIONS. I ALSO LIKE TO SING AND PERFORM, SO IF YOU WANT ME TO DO THAT, CONTACT ME !!!<br>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-default\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT ME !!!</a>",
           "form": {
             "action": "annadesutter@gmail.com",
